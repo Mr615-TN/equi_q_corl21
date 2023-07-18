@@ -6,7 +6,7 @@ This repository contains the code of the paper [Equivariant Q Learning in Spatia
 1. Install [anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 1. Clone this repo
     ```
-    git clone https://github.com/Mr615-TN/equi_q_corl21.git
+    git clone https://github.com/PointW/equi_q_corl21.git
     cd equi_q_corl21
     ```
 1. Create and activate conda environment
